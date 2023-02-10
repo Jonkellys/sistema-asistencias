@@ -1,3 +1,7 @@
+Para generar consultas en Excel debe usa el siguiente comando en el directorio principal:
+	composer require phpoffice/phpspreadsheet
+
+
 Para acceder al sistema:
 (Respeta las mayúsculas y minúsculas)
 
